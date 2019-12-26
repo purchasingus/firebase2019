@@ -23,6 +23,7 @@
   
   <plugin name="cordova-plugin-whitelist" spec="1" />
   <plugin name="cordova-plugin-firebase" spec="^2.0.5" />
+  <plugin spec="https://github.com/dpa99c/cordova-android-play-services-gradle-release" source="git" />
   
   <access origin="*" />
   <allow-intent href="http://*/*" />
